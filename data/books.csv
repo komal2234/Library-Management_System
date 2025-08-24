@@ -1,0 +1,51 @@
+BookID,Title,Author,ISBN,CopiesAvailable
+1,Modern Control Engineering,Rajkumar Buyya,9787938160262,8
+2,Modern Control Engineering,Galvin,9782277928712,6
+3,Big Data Analytics,Rajkumar Buyya,9782810586197,8
+4,Deep Learning,Galvin,9784926589555,1
+5,Introduction to Algorithms,Bjarne Stroustrup,9782978393278,8
+6,Quantum Computing,Michael Nielsen,9780273475834,3
+7,Deep Learning,Alfred Aho,9781485789099,5
+8,Digital Design,Bjarne Stroustrup,9785847084719,2
+9,Distributed Systems,William Stallings,9787066720813,8
+10,Cryptography and Network Security,Tanenbaum & Van Steen,9782830747071,6
+11,Cloud Computing,Ian Sommerville,9783379861643,2
+12,Computer Networks,Ian Sommerville,9783010647468,2
+13,Cloud Computing,Galvin,9783866551044,6
+14,Wireless Communications,Ian Sommerville,9788393352264,6
+15,Cloud Computing,Ian Goodfellow,9789668594081,5
+16,The C++ Programming Language,Thomas H. Cormen,9782078588849,2
+17,Database System Concepts,William Stallings,9788682768804,9
+18,Cryptography and Network Security,Galvin,9780561270938,3
+19,Digital Design,Abraham Silberschatz,9787435588599,2
+20,Cryptography and Network Security,Jiawei Han,9786851186704,1
+21,Software Engineering,Thomas H. Cormen,9786836042422,1
+22,Digital Design,Rajkumar Buyya,9785652300565,1
+23,Artificial Intelligence: A Modern Approach,William Stallings,9785815563564,5
+24,Compiler Design,Theodore Rappaport,9785202243615,8
+25,Computer Networks,Alfred Aho,9784405053266,5
+26,Data Mining Concepts,Andrew S. Tanenbaum,9786766615817,4
+27,Computer Networks,Christopher Bishop,9786877307278,3
+28,Modern Control Engineering,Ian Goodfellow,9781319690155,4
+29,Data Mining Concepts,M. Morris Mano,9784120146834,3
+30,Introduction to Algorithms,Andrew S. Tanenbaum,9783025262162,2
+31,Wireless Communications,Michael Nielsen,9784488600262,4
+32,Artificial Intelligence: A Modern Approach,Bjarne Stroustrup,9781261306936,7
+33,Artificial Intelligence: A Modern Approach,Viktor Mayer-Schönberger,9783546997011,10
+34,Wireless Communications,Ian Goodfellow,9787421130613,2
+35,Compiler Design,Tanenbaum & Van Steen,9781670953257,1
+36,Software Engineering,Tanenbaum & Van Steen,9780300491110,1
+37,Deep Learning,Tom Mitchell,9780459503880,8
+38,Pattern Recognition,Stuart Russell,9781930964442,9
+39,Machine Learning,Christopher Bishop,9786385452524,1
+40,Machine Learning,Alfred Aho,9788624626629,10
+41,Database System Concepts,Ogata,9786092470638,7
+42,Cryptography and Network Security,Ian Goodfellow,9786172262550,10
+43,Artificial Intelligence: A Modern Approach,William Stallings,9786749496727,4
+44,Operating System Concepts,Michael Nielsen,9783888433895,5
+45,Software Engineering,Theodore Rappaport,9783113947363,5
+46,Modern Control Engineering,Tom Mitchell,9786461161796,2
+47,Cloud Computing,Thomas H. Cormen,9787291455081,5
+48,Modern Control Engineering,M. Morris Mano,9784695767517,6
+49,Modern Control Engineering,Michael Nielsen,9785417565263,7
+50,Pattern Recognition,Alfred Aho,9780331791939,1
